@@ -1,0 +1,22 @@
+{
+    "name": "peppelg/madelineproto",
+    "description": "Base MadelineProto per userbot.",
+    "type": "project",
+    "license": "AGPLV3",
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/danog/phpseclib"
+        }
+    ],
+    "require": {
+        "danog/madelineproto": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Daniil Gentili",
+            "email": "daniil@daniil.it"
+        }
+    ]
+}
